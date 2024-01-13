@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-    site_dir: "docs"
+site_dir: "docs"
 
 format:
   html:
