@@ -1,11 +1,9 @@
 ---
-title: "Jonathan Vlahadamis"
+title: ""
 ---
 
-This is a Quarto website.
+Thank you for visiting my website. My website is a touch point between me and others who wish to get in touch or learn more about me.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   My website is a portfolio about my professional experiences and interests, and also includes some information about my personal interests.
 
-```{r}
-1 + 1
-```
+-   I invite you to visit the "Contact" or "LinkedIn" sections of my website should my profile interest you or if you would like to get in touch.

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Website 2",
+    "title": "Jonathan Vlahadamis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Thank you for visiting my website. My website is a touch point between me and others who wish to get in touch or learn more about me.\n\nMy website is a portfolio about my professional experiences and interests, and also includes some information about my personal interests.\nI invite you to visit the “Contact” or “LinkedIn” sections of my website should my profile interest you or if you would like to get in touch."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I invite you to send me an email should my profile interest you.\nvlahadam@ualberta.ca"
+  },
+  {
+    "objectID": "linkedin.html",
+    "href": "linkedin.html",
+    "title": "LinkedIn",
+    "section": "",
+    "text": "My professional experience is listed on my profile below. For any questions about my experience, please send me an email at vlahadam@ualberta.ca.\nhttps://www.linkedin.com/in/jonathan-vlahadamis-946a961ba/"
   }
 ]

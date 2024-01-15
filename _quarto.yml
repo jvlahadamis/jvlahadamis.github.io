@@ -9,10 +9,20 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - contact.qmd
+      - linkedin.qmd
 
+      
 format:
   html:
-    theme: cosmo
+    theme: 
+      dark: darkly    
+      light: flatly
+    fontsize: 1.5rem
+    fontcolor: "#FFFFFF"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+    
     css: styles.css
     toc: true
 
