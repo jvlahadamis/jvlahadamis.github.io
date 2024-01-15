@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Thank you for visiting my website.",
     "section": "",
-    "text": "I invite you to explore the pages within my website to learn more about me.\nPlease visit the “Contact” or “LinkedIn” sections should my profile interest you or if you would like to get in touch."
+    "text": "I invite you to explore the pages within my website to learn more about me.\nPlease visit the Contact or LinkedIn sections should my profile interest you or if you would like to get in touch. I have also provided a link in the Calendly section if you would like to speak with me over a 30 minute one-on-one call."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Jonathan Vlahadamis",
+    "title": "About",
     "section": "",
-    "text": "I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained deep experience through both co-op terms and internships, as well as through my participation in valuable courses offered in the Finance program at the University."
+    "text": "I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained valuable experience through co-op and internships, as well as through my participation in courses offered by the University."
   },
   {
     "objectID": "contact.html",
@@ -25,12 +25,12 @@
     "href": "linkedin.html",
     "title": "LinkedIn",
     "section": "",
-    "text": "My professional experience is listed on my profile below. For any questions about my experience, please send me an email at vlahadam@ualberta.ca.\nhttps://www.linkedin.com/in/jonathan-vlahadamis-946a961ba/"
+    "text": "My professional experience is listed on my profile below. For any questions about my experience, please send me an email at vlahadam@ualberta.ca and I would be enthusiastic to chat.\nhttps://www.linkedin.com/in/jonathan-vlahadamis-946a961ba/"
   },
   {
     "objectID": "about.html#about-jonathan",
     "href": "about.html#about-jonathan",
-    "title": "Jonathan Vlahadamis",
+    "title": "About",
     "section": "",
     "text": "I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained deep experience through both co-op terms and internships, as well as through my participation in valuable courses offered in the Finance program at the University."
   },
@@ -44,22 +44,36 @@
   {
     "objectID": "about.html#principles",
     "href": "about.html#principles",
-    "title": "Jonathan Vlahadamis",
+    "title": "About",
     "section": "Principles",
     "text": "Principles\nWhen engaged in professionally related tasks, I operate on the principles of discipline, respect, punctuality, integrity, and productive collaboration."
   },
   {
     "objectID": "about.html#professional-interests",
     "href": "about.html#professional-interests",
-    "title": "Jonathan Vlahadamis",
+    "title": "About",
     "section": "Professional Interests",
     "text": "Professional Interests\nMy professional interests include trading, financial research, and data analytics/programming with respect to financial decision making and problem solving."
   },
   {
     "objectID": "about.html#personal-interests",
     "href": "about.html#personal-interests",
-    "title": "Jonathan Vlahadamis",
+    "title": "About",
     "section": "Personal Interests",
-    "text": "Personal Interests\nMy personal interests include guitar with a focus on improvisation, playing hockey, board games, programming, and finance."
+    "text": "Personal Interests\nMy personal interests include guitar with a focus on improvisation, playing hockey, board games, fitness, and comedy."
+  },
+  {
+    "objectID": "calendly.html",
+    "href": "calendly.html",
+    "title": "Calendly",
+    "section": "",
+    "text": "If you would like to have a chat, I invite you to schedule a meeting with me at the link below.\nhttps://calendly.com/vlahadam/30min"
+  },
+  {
+    "objectID": "about.html#focus",
+    "href": "about.html#focus",
+    "title": "About",
+    "section": "Focus",
+    "text": "Focus\nDuring the final year of my degree I am commited to seeking increasingly complex challenges in my coursework and extracurricular activities."
   }
 ]
