@@ -1,11 +1,23 @@
 ---
-title: "About"
+title: ""
 ---
+
+## About Jonathan
 
 I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained deep experience through both co-op terms and internships, as well as through my participation in valuable courses offered in the Finance program at the University.
 
-My professional principles include attention to detail, discipline, and collaboration.
+## Current Focus
 
-My professional interests include trading, financial research, and data analytics for financial decision making.
+My focus as I enter the final year of my degree is on problem decomposition and using programming toolsets for problem solving.
 
-My personal interests include guitar improvisation with influence from famous blues players like Stevie Ray Vaughan, board games, programming, and finance.
+## Principles
+
+When engaged in professionally related tasks, I operate on the principles of discipline, respect, punctuality, integrity, and productive collaboration.
+
+## Professional Interests
+
+My professional interests include trading, financial research, and data analytics/programming with respect to financial decision making and problem solving.
+
+## Personal Interests
+
+My personal interests include guitar with a focus on improvisation, playing hockey, board games, programming, and finance.

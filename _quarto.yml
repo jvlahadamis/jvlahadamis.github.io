@@ -11,13 +11,12 @@ website:
       - about.qmd
       - contact.qmd
       - linkedin.qmd
+      - calendly.qmd
 
       
 format:
   html:
-    theme: 
-      dark: darkly    
-      light: flatly
+    theme: darkly
     fontsize: 1.5rem
     fontcolor: "#FFFFFF"
     linkcolor: "#ff33f0"
