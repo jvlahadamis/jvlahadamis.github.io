@@ -6,7 +6,7 @@ project:
 website:
   title: "Jonathan Vlahadamis"
   navbar:
-    background: "#000008"
+    background: "#020005"
     foreground: "#ebe8c6" 
     pinned: false
     collapse: true
