@@ -1,16 +1,18 @@
 ---
-title: "About"
+title: ""
 ---
 
-I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained valuable experience through co-op and internships, as well as through my participation in courses offered by the University.
+## About
+
+I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained valuable experience through co-op and internships, as well as through my coursework at the University.
 
 ## Focus
 
-During the final year of my degree I am commited to seeking increasingly complex challenges in my coursework and extracurricular activities.
+As I complete the final year of my degree, I am focusing on completing increasingly complex challenges in my coursework and extracurricular activities.
 
 ## Principles
 
-When engaged in professionally related tasks, I operate on the principles of discipline, respect, detail, punctuality, integrity, and productive collaboration.
+When engaged in professionally related tasks, I hold the principles of discipline, respect, detail, punctuality, integrity, and productive collaboration in high regard.
 
 ## Professional Interests
 
@@ -18,4 +20,4 @@ My professional interests include trading, financial research, and data analytic
 
 ## Personal Interests
 
-My personal interests include guitar with a focus on improvisation and making covers, playing hockey, board games, fitness, and comedy.
+My personal interests include playing guitar with a focus on improvisation and creating covers, playing hockey, playing board games, fitness, and comedy.

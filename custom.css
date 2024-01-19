@@ -1,0 +1,23 @@
+/* css styles */
+
+
+.navbar-title:hover > .icon-line{
+    animation-duration: 600ms;
+    animation-name: line-expand;
+}
+
+body{
+    background-color: #000008;
+    color: #ebe8c6;
+}
+
+.button{
+    background-color: aliceblue;
+    color: aliceblue;
+    transition-duration: 3s;
+}
+
+.button:hover{
+    background-color: aliceblue;
+
+}

@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Thank you for visiting my website.",
     "section": "",
-    "text": "I invite you to explore the pages within my website to learn more about me.\nPlease visit the Contact or LinkedIn sections should my profile interest you or if you would like to get in touch. I have also provided a link in the Calendly section if you would like to speak with me over a 30 minute one-on-one call."
+    "text": "I invite you to explore the pages within my website to learn more about me.\nPlease visit the Contact, LinkedIn, or Calendly sections if you would like to get in touch. I look forward to connecting with you."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Jonathan Vlahadamis",
     "section": "",
-    "text": "I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained valuable experience through co-op and internships, as well as through my participation in courses offered by the University."
+    "text": "I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained valuable experience through co-op and internships, as well as through my coursework at the University."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I invite you to send me an email should my profile interest you.\nvlahadam@ualberta.ca"
+    "text": "I invite you to send me an email if you would like to learn more about my profile.\nvlahadam@ualberta.ca"
   },
   {
     "objectID": "linkedin.html",
@@ -44,23 +44,23 @@
   {
     "objectID": "about.html#principles",
     "href": "about.html#principles",
-    "title": "About",
+    "title": "Jonathan Vlahadamis",
     "section": "Principles",
-    "text": "Principles\nWhen engaged in professionally related tasks, I operate on the principles of discipline, respect, detail, punctuality, integrity, and productive collaboration."
+    "text": "Principles\nWhen engaged in professionally related tasks, I hold the principles of discipline, respect, detail, punctuality, integrity, and productive collaboration in high regard."
   },
   {
     "objectID": "about.html#professional-interests",
     "href": "about.html#professional-interests",
-    "title": "About",
+    "title": "Jonathan Vlahadamis",
     "section": "Professional Interests",
     "text": "Professional Interests\nMy professional interests include trading, financial research, and data analytics/programming with respect to financial decision making and problem solving."
   },
   {
     "objectID": "about.html#personal-interests",
     "href": "about.html#personal-interests",
-    "title": "About",
+    "title": "Jonathan Vlahadamis",
     "section": "Personal Interests",
-    "text": "Personal Interests\nMy personal interests include guitar with a focus on improvisation and making covers, playing hockey, board games, fitness, and comedy."
+    "text": "Personal Interests\nMy personal interests include playing guitar with a focus on improvisation and creating covers, playing hockey, playing board games, fitness, and comedy."
   },
   {
     "objectID": "calendly.html",
@@ -72,8 +72,15 @@
   {
     "objectID": "about.html#focus",
     "href": "about.html#focus",
-    "title": "About",
+    "title": "Jonathan Vlahadamis",
     "section": "Focus",
-    "text": "Focus\nDuring the final year of my degree I am commited to seeking increasingly complex challenges in my coursework and extracurricular activities."
+    "text": "Focus\nAs I complete the final year of my degree, I am focusing on completing increasingly complex challenges in my coursework and extracurricular activities."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Jonathan Vlahadamis",
+    "section": "",
+    "text": "I am a fourth year Finance Student at the University of Alberta. Throughout my time at the Alberta School of Business, I have gained valuable experience through co-op and internships, as well as through my coursework at the University."
   }
 ]

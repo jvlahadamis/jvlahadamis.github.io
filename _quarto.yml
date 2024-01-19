@@ -2,9 +2,14 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "Jonathan Vlahadamis"
   navbar:
+    background: "#000008"
+    foreground: "#ebe8c6" 
+    pinned: false
+    collapse: true
     left:
       - href: index.qmd
         text: Home
@@ -17,13 +22,11 @@ website:
 format:
   html:
     theme: darkly
-    fontsize: 1.5rem
-    fontcolor: "#FFFFFF"
-    linkcolor: "#ff33f0"
-    monofont: courier new
+    smooth-scroll: true
+    fontsize: 1.25rem
+    linkcolor: "#fbf4b5"
     
-    css: styles.css
+    css: custom.css
     toc: true
 
 editor: visual
-
